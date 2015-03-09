@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: home
 ---
 
-Prion Alliance is a 501(c)(3) non-profit devoted exclusively to advancing scientific research towards a treatment or cure for human prion disease.
-
-Prion diseases are fatal neurodegenerative diseases caused by misfolded proteins and known by various names, such as Creutzfeldt-Jakob disease, fatal familial insomnia, and Gertsmann-Str&auml;ussler-Scheinker disease. At present, there is no treatment or cure. 
+Prion Alliance is a 501(c)(3) non-profit devoted exclusively to advancing scientific research towards a treatment or cure for human prion disease. Prion diseases are fatal neurodegenerative diseases caused by misfolded proteins and known by various names, such as Creutzfeldt-Jakob disease, fatal familial insomnia, and Gertsmann-Str&auml;ussler-Scheinker disease. At present, there is no treatment or cure. 
 
 Donate via PayPal:
 
@@ -31,3 +29,10 @@ Press:
 + [Insomnia that kills](http://goo.gl/0tnV3v), Aimee Swartz, *The Atlantic*, February 5, 2015
 + [Computer scientist makes prion advance](http://goo.gl/gHUHdv), Erika Check Hayden, *Nature News*, October 2, 2014
 + [A prion love story](http://nyr.kr/16GgtZY), D.T. Max, *The New Yorker*, September 27, 2013
+
+Facts:
+
++ Prion Alliance was founded in June 2012 and received 501(c)(3) determination in October 2012.
++ Board members: Sonia Vallabh (President), Eric Minikel, Greta Beekhuis
++ EIN (for deducting your [donation](/donate/) when you do your taxes): 46-0732060
+
