@@ -1,10 +1,12 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Prion Alliance
+description: "Prion Alliance is a 501(c)(3) non-profit devoted to funding research towards a treatment or cure for human prion disease."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://prionalliance.org"
+username: prionalliance
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "tables"]
 permalink: pretty
