@@ -1,8 +1,8 @@
 # Site settings
 title: Prion Alliance
 description: "Prion Alliance is a 501(c)(3) non-profit devoted to funding research towards a treatment or cure for human prion disease."
-baseurl: ""
-url: "http://prionalliance.org"
+baseurl: "http://www.prionalliance.org"
+url: "http://www.prionalliance.org"
 username: prionalliance
 
 # Build settings
