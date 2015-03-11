@@ -60,6 +60,11 @@ a:visited { color: #205caa; }
   z-index: 1;
 }
 
+.site-banner {
+  max-width: 100%;
+  height: auto;
+}
+
 .site-nav {
   float: left;
   line-height: 56px;
