@@ -26,6 +26,8 @@ Three things to know about donating:
 </tr>
 </table>
 
+To make a memorial donation, please fill out the "In honor of" field in PayPal's system.
+
 ### Mail us a check
 
 Send a check made out to Prion Alliance to:
