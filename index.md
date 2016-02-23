@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Prion Alliance is a 501(c)(3) non-profit devoted exclusively to advancing scientific research towards a treatment or cure for human prion disease. Prion diseases are fatal neurodegenerative diseases caused by misfolded proteins and known by various names, such as Creutzfeldt-Jakob disease, fatal familial insomnia, and Gertsmann-Str&auml;ussler-Scheinker disease. At present, there is no treatment or cure. We &mdash; Sonia Vallabh and Eric Minikel &mdash; founded Prion Alliance as part of our scientific quest after we learned that Sonia inherited a genetic mutation that causes prion disease. We changed our careers in order to study prions and are currently PhD students in biology at Harvard Medical School.
+Prion Alliance is a 501(c)(3) non-profit devoted exclusively to advancing scientific research towards a treatment or cure for human prion disease. Prion diseases are fatal neurodegenerative diseases caused by misfolded proteins and known by various names, such as Creutzfeldt-Jakob disease, fatal familial insomnia, and Gertsmann-Str&auml;ussler-Scheinker disease. At present, there is no treatment or cure. We &mdash; Sonia Vallabh and Eric Minikel &mdash; founded Prion Alliance as part of our scientific quest after we learned in 2011 that Sonia inherited a genetic mutation that causes prion disease. We are now PhD students in biology at Harvard Medical School, and we are based in Stuart Schreiber's lab at the [Broad Institute](https://www.broadinstitute.org/), where we work on developing therapeutics for human prion disease.
 
 You can donate via PayPal to support our quest:
 
@@ -20,6 +20,7 @@ You can donate via PayPal to support our quest:
 
 To learn more about our story, read one of these articles:
 
++ [A husband and wife's race to cure her fatal genetic disease](https://www.bostonglobe.com/magazine/2016/02/17/husband-and-wife-race-cure-her-fatal-genetic-disease/SLnmAndVfrq9XO1NnLIgkL/story.html), Kathleen Burge, *Boston Globe Magazine*, February 17, 2016
 + [Insomnia that kills](http://goo.gl/0tnV3v), Aimee Swartz, *The Atlantic*, February 5, 2015
 + [Computer scientist makes prion advance](http://goo.gl/gHUHdv), Erika Check Hayden, *Nature News*, October 2, 2014
 + [A prion love story](http://nyr.kr/16GgtZY), D.T. Max, *The New Yorker*, September 27, 2013
