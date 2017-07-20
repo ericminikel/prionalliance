@@ -6,17 +6,12 @@ Prion Alliance is a 501(c)(3) non-profit devoted exclusively to advancing scient
 
 You can donate via PayPal to support our quest:
 
-<table class="table" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td width="116"><img title="paypal" src="/media/base/paypal.png" alt="PayPal logo" width="116" height="50" /></td>
-<td>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="9FU3LLRQXKYYL" />
-<input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal - The safer, easier way to pay online!" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>
-</td>
-</tr>
-</table>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="A9HG9YJ3CHLRW">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 
 To learn more about our story, read one of these articles:
 
