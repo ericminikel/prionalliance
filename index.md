@@ -25,7 +25,6 @@ Or watch one of these talks:
 
 + [Time equals lives: our journey from patients to scientists](http://youtu.be/OZZbNIFKc4k), Partnering for Cures, New York, NY. November 17, 2014.
 + [Crowd funding: a personal quest to cure prion disease](http://youtu.be/d9d_8SzXfIc), American Society of Human Genetics, San Diego, CA, October 18, 2014. 
-+ [Proteinaceous infectious optimism](http://youtu.be/yD5Oi-eh0Hc), Prion2014, Trieste, Italy, May 30, 2014. 
 
 Also, here are some handy facts about Prion Alliance:
 
