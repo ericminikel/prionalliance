@@ -22,6 +22,8 @@ Meanwhile, we soon face a turning point in our own lives and careers: we recentl
 
 **A donor has generously offered to match your contributions 1:1 up to a total of $10,000 through the end of the year.** If you can, please make a tax-deductible donation to our effort to develop a drug for prion disease. You can [donate online via PayPal](http://www.prionalliance.org/donate/), or mail a check to Prion Alliance, PO Box 391953, Cambridge, MA 02139. Thank you so much for your continued support.
 
+*Update Dec 10, 2018: a second donor has stepped up to match contributions from the $10,001 mark to $15,000. One week on, we've raised $8,170, so there is $6,830 of match left! Keep the donations coming! Thank you so much!*
+
 with love,
 
 Sonia, Eric, and Daruka
