@@ -15,16 +15,16 @@ You can donate via PayPal to support our quest:
 
 To learn more about our story, read one of these articles:
 
++ [One Couple's Tireless Crusade to Stop a Genetic Killer](https://www.wired.com/story/sleep-no-more-crusade-genetic-killer/), Kelly B. Clancy, WIRED, January 15, 2019.
 + Two-part NPR story on [Morning Edition](http://www.npr.org/2017/06/19/533220784/a-mothers-early-death-drives-her-daughter-to-find-a-treatment) & [All Things Considered](http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them), Rae Ellen Bichell, NPR, June 19, 2017
 + [A husband and wife's race to cure her fatal genetic disease](https://www.bostonglobe.com/magazine/2016/02/17/husband-and-wife-race-cure-her-fatal-genetic-disease/SLnmAndVfrq9XO1NnLIgkL/story.html), Kathleen Burge, *Boston Globe Magazine*, February 17, 2016
 + [Insomnia that kills](http://goo.gl/0tnV3v), Aimee Swartz, *The Atlantic*, February 5, 2015
 + [Computer scientist makes prion advance](http://goo.gl/gHUHdv), Erika Check Hayden, *Nature News*, October 2, 2014
 + [A prion love story](http://nyr.kr/16GgtZY), D.T. Max, *The New Yorker*, September 27, 2013
 
-Or watch one of these talks:
+Or watch this talk:
 
-+ [Time equals lives: our journey from patients to scientists](http://youtu.be/OZZbNIFKc4k), Partnering for Cures, New York, NY. November 17, 2014.
-+ [Crowd funding: a personal quest to cure prion disease](http://youtu.be/d9d_8SzXfIc), American Society of Human Genetics, San Diego, CA, October 18, 2014. 
++ [Antisense oligonuclotides for genetic prion disease](https://youtu.be/5T58r0rdUj8), Broad Institute, August 2018.
 
 Also, here are some handy facts about Prion Alliance:
 
