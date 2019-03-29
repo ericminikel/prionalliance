@@ -31,4 +31,5 @@ Also, here are some handy facts about Prion Alliance:
 + Prion Alliance was founded in June 2012 and received 501(c)(3) determination in October 2012.
 + Board members: Sonia Vallabh (President), Eric Minikel, Greta Beekhuis
 + Federal Tax ID (or EIN, for deducting your [donation](/donate/)): 46-0732060
++ You can find official forms and documents on Prion Alliance [here](/documents/).
 
