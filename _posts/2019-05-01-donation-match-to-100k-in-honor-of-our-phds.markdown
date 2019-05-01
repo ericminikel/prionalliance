@@ -4,7 +4,7 @@ title:  "Donations matched 1:1 to $100,000 in honor of our PhDs"
 date:   2019-05-01 12:01:00
 author: eric
 location: Cambridge, MA
-thumb120: http://prionalliance.org/media/base/e-100px.png
+thumb120: http://prionalliance.org/media/2019/05/defense-thumbnail.png
 summary200: "We've earned our PhDs! But the hardest work lies ahead. Donations matched 1:1 up to $100K through May 31."
 ---
 
