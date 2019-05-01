@@ -8,7 +8,7 @@ Three things to know about donating:
 
 1. You are awesome.
 2. We accept donations via PayPal or check.
-3. For tax deduction purposes, our EIN is 46-0732060.
+3. For tax deduction purposes, our EIN is 46-0732060. Individual tax receipts will be emailed out for donations &ge;$100, but you can always [let us know](/contact/) if you need one.
 
 ### Donate via PayPal
 
