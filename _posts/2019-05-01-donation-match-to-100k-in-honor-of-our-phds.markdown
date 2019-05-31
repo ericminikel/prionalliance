@@ -30,3 +30,6 @@ with love,
 
 Sonia & Eric
 
+<hr>
+
+*Update 2019-05-31: With only 24 hours to spare, we've made the $100K matching goal! It took 208 donors to get us here — thank you all SO much for believing in us and being our allies on this journey. Together we will conquer this disease!*
