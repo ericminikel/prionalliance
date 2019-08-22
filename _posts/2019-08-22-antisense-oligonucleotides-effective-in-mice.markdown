@@ -5,7 +5,7 @@ date:   2019-08-22 12:01:00
 author: sonia
 location: Cambridge, MA
 thumb120: http://www.prionalliance.org/media/2019/08/aso-thumbnail.png
-summary200: ""
+summary200: "Our new study shows ASOs can delay prion disease in mice, and figures out how they work - an important step towards developing a drug with this mechanism."
 ---
 
 For the past five years, Eric and I have been working with Ionis Pharmaceuticals on the strategy of using an antisense oligonucleotide, or ASO, to lower the amount of prion protein in the brain, as a way to treat, delay or prevent prion disease. You can read about the rationale for this therapeutic approach, and why we’re optimistic, [here](http://www.prionalliance.org/2018/07/09/developing-an-antisense-drug-for-prion-disease/).
@@ -21,4 +21,3 @@ So what comes next? There are many more mouse studies in the pipeline, testing A
 In the meantime, though, this is a great moment to pause and reflect on just how many people came together to make these studies a reality. Byron's lab and our partners at Ionis did an amazing amount of work. Jason Le, Sam Graffam, and the rest of the Comparative Medicine team at the Broad Institute were heroes to our animals. Deb Cabin and Curt Mazur both flew out to Boston to train us hands-on. Jeff Carroll at Western Washington University has been an instrumental advisor from day one of our ASO journey. Finally, a special thanks goes out to CJD Foundation &mdash; in 2016 they awarded a [grant](https://cjdfoundation.org/byron-caughey) to Byron's lab that allowed us to get the first ASO mouse studies up and running.
 
 There’s still a lot to learn and a lot to do, but we are excited about where the data are taking us. Stay tuned for more on ASOs for prion disease.
-
