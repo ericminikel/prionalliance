@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Prion Alliance is a 501(c)(3) non-profit devoted exclusively to advancing scientific research towards a treatment or cure for human prion disease. Prion diseases are fatal neurodegenerative diseases caused by misfolded proteins and known by various names, such as Creutzfeldt-Jakob disease, fatal familial insomnia, and Gertsmann-Str&auml;ussler-Scheinker disease. At present, there is no treatment or cure. We &mdash; Sonia Vallabh and Eric Minikel &mdash; founded Prion Alliance as part of our scientific quest after we learned in 2011 that Sonia inherited a genetic mutation that causes prion disease. We recently defended our PhDs at Harvard Medical School, and now run a prion laboratory at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), where we work on developing therapeutics for human prion disease.
+Prion Alliance is a 501(c)(3) non-profit devoted exclusively to advancing scientific research towards a treatment or cure for human prion disease. Prion diseases are fatal neurodegenerative diseases caused by misfolded proteins and known by various names, such as Creutzfeldt-Jakob disease, fatal familial insomnia, and Gerstmann-Str&auml;ussler-Scheinker disease. At present, there is no treatment or cure. We &mdash; Sonia Vallabh and Eric Minikel &mdash; founded Prion Alliance as part of our scientific quest after we learned in 2011 that Sonia inherited a genetic mutation that causes prion disease. We recently defended our PhDs at Harvard Medical School, and now run a prion laboratory at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), where we work on developing therapeutics for human prion disease.
 
 You can donate via PayPal to support our quest:
 
