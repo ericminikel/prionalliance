@@ -24,4 +24,6 @@ all our best,
 
 Sonia & Eric
 
+*Update 2019-12-11: As of last night we've made the $10,000 goal &mdash; and another donor has stepped up to offer to match 1:1 all donations that bring us up to the $15,000 mark. Please keep your support coming! A huge thank you to all 42 donors who have contributed so far!!*
+
 ![](/media/2019/12/us-2019-10-26.png)
