@@ -4,6 +4,7 @@ title: Works
 permalink: /works/
 ---
 
+
 A collection of our writing and research works.
 
 Minikel EV, Zhao HT, Le J, O’Moore J, Pitstick R, Graffam S, Carlson GA, Kriz J, Kim JB, Ma J, Wille H, Aiken J, McKenzie D, Doh-ura K, Beck M, O’Keefe R, Stathopoulos J, Caron T, Schreiber SL, Carroll JB, Kordasiewicz HB, Cabin DE, Vallabh SM. **Prion protein lowering is a disease-modifying therapy across prion strains, disease stages, and endpoints.** bioRxiv. 2020 Mar 27;2020.03.27.011940. [Full text](/works/minikel-2020-prion-protein-lowering.pdf)
