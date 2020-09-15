@@ -4,12 +4,11 @@ title: Works
 permalink: /works/
 ---
 
-
 A collection of our writing and research works.
 
-Minikel EV, Zhao HT, Le J, O’Moore J, Pitstick R, Graffam S, Carlson GA, Kriz J, Kim JB, Ma J, Wille H, Aiken J, McKenzie D, Doh-ura K, Beck M, O’Keefe R, Stathopoulos J, Caron T, Schreiber SL, Carroll JB, Kordasiewicz HB, Cabin DE, Vallabh SM. **Prion protein lowering is a disease-modifying therapy across prion strains, disease stages, and endpoints.** bioRxiv. 2020 Mar 27;2020.03.27.011940. [Full text](/works/minikel-2020-prion-protein-lowering.pdf)
+Minikel EV, Zhao HT, Le J, O’Moore J, Pitstick R, Graffam S, Carlson GA, Kavanaugh MP, Kriz J, Kim JB, Ma J, Wille H, Aiken J, McKenzie D, Doh-Ura K, Beck M, O’Keefe R, Stathopoulos J, Caron T, Schreiber SL, Carroll JB, Kordasiewicz HB, Cabin DE, Vallabh SM. **Prion protein lowering is a disease-modifying therapy across prion disease stages, strains and endpoints.** _Nucleic Acids Res_. 2020 Aug 10. [PMID: 32776089](https://pubmed.ncbi.nlm.nih.gov/32776089/). [Full text](/works/minikel-2020-prion-protein-lowering.pdf)
 
-Reidenbach AG, Mesleh MF, Casalena D, Vallabh SM, Dahlin JL, Leed AJ, Chan AI, Usanov DL, Yehl JB, Lemke CT, Campbell AJ, Shah RN, Shrestha OK, Sacher JR, Rangel VL, Moroco JA, Sathappa M, Nonato MC, Kong NT, Wright SK, Liu DR, Wagner FF, Kaushik VK, Auld DS, Schreiber SL, Minikel EV. **Multimodal small-molecule screening for human prion protein binders.** bioRxiv. Cold Spring Harbor Laboratory; 2020 Jun 20;2020.06.18.159418. [Full text](/works/reidenbach-2020-multimodal-small-molecule-screening.pdf)
+Reidenbach AG, Mesleh MF, Casalena D, Vallabh SM, Dahlin JL, Leed AJ, Chan AI, Usanov DL, Yehl JB, Lemke CT, Campbell AJ, Shah RN, Shrestha OK, Sacher JR, Rangel VL, Moroco JA, Sathappa M, Nonato MC, Nguyen KT, Wright SK, Liu DR, Wagner FF, Kaushik VK, Auld DS, Schreiber SL, Minikel EV. **Multimodal small-molecule screening for human prion protein binders.** _J Biol Chem_. 2020 Jul 28. [PMID: 32723867](https://pubmed.ncbi.nlm.nih.gov/32723867). [Full text](/works/reidenbach-2020-multimodal-small-molecule-screening.pdf)
 
 Minikel EV, Karczewski KJ, Martin HC, Cummings BB, Whiffin N, Rhodes D, Alföldi J, Trembath RC, van Heel DA, Daly MJ, Genome Aggregation Database Production Team, Genome Aggregation Database Consortium, Schreiber SL, MacArthur DG. **Evaluating drug targets through human loss-of-function genetic variation.** Nature. 2020 May;581(7809):459–464. [PMID: 32461653](https://pubmed.ncbi.nlm.nih.gov/32461653/). PMCID: PMC7272226. [Full text](works/minikel-2020-evaluating-drug-targets.pdf). _[Original article at Nature.com](https://doi.org/10.1038/s41586-020-2267-z)_.
 
@@ -23,7 +22,7 @@ Vallabh SM. **The Patient-Scientist’s Mandate.** N Engl J Med. 2020 Jan 9;382(
 
 Reidenbach AG, Minikel EV, Zhao HT, Guzman SG, Leed AJ, Mesleh MF, Kordasiewicz HB, Schreiber SL, Vallabh SM. **Characterization of the Prion Protein Binding Properties of Antisense Oligonucleotides.** Biomolecules. 2019 Dec 18;10(1). PMID: 31861275. [Full text](works/reidenbach-minikel-2019-characterization-of-the-prion-protein-binding.pdf). _[Original article at mdpi.com](https://www.mdpi.com/2218-273X/10/1/1)_.
 
-Minikel EV, Kuhn E, Cocco AR, Vallabh SM, Hartigan CR, Reidenbach AG, Safar JG, Raymond GJ, McCarthy MD, O’Keefe R, Llorens F, Zerr I, Capellari S, Parchi P, Schreiber SL, Carr SA. **Domain-specific quantification of prion protein in cerebrospinal fluid by targeted mass spectrometry.** Mol Cell Proteomics. 2019 Sep 26; PMID: 31558565. [Full text](works/minikel-kuhn-2019-domain-specific-quantification.pdf). _Original article at [mcponline.org](https://www.mcponline.org/content/18/12/2388)_.
+Minikel EV, Kuhn E, Cocco AR, Vallabh SM, Hartigan CR, Reidenbach AG, Safar JG, Raymond GJ, McCarthy MD, O’Keefe R, Llorens F, Zerr I, Capellari S, Parchi P, Schreiber SL, Carr SA. **Domain-specific quantification of prion protein in cerebrospinal fluid by targeted mass spectrometry.** Mol Cell Proteomics. 2019 Sep 26; PMID: 31558565. [Full text](works/minikel-kuhn-2019-domain-specific-quantification.pdf). _[Original article at mcponline.org](https://www.mcponline.org/content/18/12/2388)_.
 
 Raymond GJ, Zhao HT, Race B, Raymond LD, Williams K, Swayze EE, Graffam S, Le J, Caron T, Stathopoulos J, O’Keefe R, Lubke LL, Reidenbach AG, Kraus A, Schreiber SL, Mazur C, Cabin DE, Carroll JB, Minikel EV, Kordasiewicz H, Caughey B, Vallabh SM. **Antisense oligonucleotides extend survival of prion-infected mice.** JCI Insight. 2019 30;5. PMID: 31361599. [Full text](works/raymond-2019-antisense-oligonucleotides-extend-survival.pdf). _[Original article at jci.org](https://insight.jci.org/articles/view/131175)_.
 
