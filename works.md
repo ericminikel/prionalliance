@@ -6,6 +6,8 @@ permalink: /works/
 
 A collection of our writing and research works.
 
+Vallabh SM, Minikel EV. **Implications of new genetic risk factors in prion disease.** _Nat Rev Neurol._ 2021 Jan;17(1):5-6. doi: 10.1038/s41582-020-00433-0. [PMID: 33173159](https://pubmed.ncbi.nlm.nih.gov/33173159/).
+
 Minikel EV, Zhao HT, Le J, O’Moore J, Pitstick R, Graffam S, Carlson GA, Kavanaugh MP, Kriz J, Kim JB, Ma J, Wille H, Aiken J, McKenzie D, Doh-Ura K, Beck M, O’Keefe R, Stathopoulos J, Caron T, Schreiber SL, Carroll JB, Kordasiewicz HB, Cabin DE, Vallabh SM. **Prion protein lowering is a disease-modifying therapy across prion disease stages, strains and endpoints.** _Nucleic Acids Res_. 2020 Aug 10. [PMID: 32776089](https://pubmed.ncbi.nlm.nih.gov/32776089/). [Full text](/works/minikel-2020-prion-protein-lowering.pdf)
 
 Reidenbach AG, Mesleh MF, Casalena D, Vallabh SM, Dahlin JL, Leed AJ, Chan AI, Usanov DL, Yehl JB, Lemke CT, Campbell AJ, Shah RN, Shrestha OK, Sacher JR, Rangel VL, Moroco JA, Sathappa M, Nonato MC, Nguyen KT, Wright SK, Liu DR, Wagner FF, Kaushik VK, Auld DS, Schreiber SL, Minikel EV. **Multimodal small-molecule screening for human prion protein binders.** _J Biol Chem_. 2020 Jul 28. [PMID: 32723867](https://pubmed.ncbi.nlm.nih.gov/32723867). [Full text](/works/reidenbach-2020-multimodal-small-molecule-screening.pdf)
