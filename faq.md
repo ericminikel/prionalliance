@@ -61,6 +61,12 @@ In the United States, predictive genetic testing for prion disease is performed 
 
 If your genetic counselor or physician is not familiar with genetic prion disease, you may want to refer them to [this study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4774245/) on the risk of different mutations, and/or [this table](https://www.cureffi.org/2017/04/24/annotating-the-literature-on-pathogenicity-of-prnp-variants/) of references on each of the &gt;70 different mutations that have been discovered.
 
+<a name="genetic-screening" />
+
+### I have no known family history of prion disease, but underwent genetic testing either for a different condition or for recreational purposes, and a prion protein variant turned up in my test report. Is it a cause for concern?
+
+The variant M129V (also known as rs1799990 or 20:4680251 A>G) is a very common and benign variant, present in about half of people in the world. M129V has been incorrectly annotated in some databases as causing genetic prion disease, and therefore occasionally turns up in automatically generated genetic test reports. In fact, it does not cause genetic prion disease and is not a cause for concern. There are also many other possible variants in _PRNP_, ranging from benign to low-risk to high risk. If you are concerned about a different variant, we suggest you contact a genetic counselor to discuss.
+
 <a name="donate-tissues" />
 
 ### A loved one has passed away, and we'd like to donate their tissues to research, how can we proceed?
