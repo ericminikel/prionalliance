@@ -50,5 +50,5 @@ The study visits would include the following components, performed over 1.5 days
 
 ### Who should I contact to learn more or volunteer?
 
-Contact the study staff at <MGHPrionStudy@partners.org> or 617-726-1259.
+Contact the study staff at <MGHPrionStudy@partners.org> or 617-726-0928.
 
