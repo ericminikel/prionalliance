@@ -83,7 +83,7 @@ Unfortunately, there are no therapeutic options at present. No drugs or other tr
 
 ### When will a drug be ready for human clinical trials, approved, or available?
 
-Our partners at Ionis Pharmaceuticals have publicly committed to developing an antisense drug (ION761) for prion disease, placing it in their official [pipeline](https://www.ionispharma.com/ionis-innovation/pipeline/) and issuing a [statement](/media/2020/04/ionis-prion-covid-19-statement.pdf) that development is moving full speed ahead despite the pandemic. Drug development is, however, always a slow and highly uncertain process, and giving firm timelines amounts to trying to predict the future. Ionis has so far only given a general timeline of aiming to begin human trials within the coming few years. We will let you know when we hear any more concrete updates. Once a potential treatment enters first-in-human studies, clinical trials gathering data on its safety and efficacy are likely to last for some years.
+Our partners at Ionis Pharmaceuticals have [publicly committed](http://www.prionalliance.org/media/2021/04/Prion_Disease_Community_Statement_4.7.21.pdf) to developing an antisense drug for prion disease. Their drug candidate is currently in animal studies, however, and is not available for experimental or compassionate use treatment. Drug development is always a slow and highly uncertain process, but their best estimate is that human clinical trials could begin in late 2022. Once a potential treatment enters first-in-human studies, clinical trials gathering data on its safety and efficacy are likely to last for some years.
 
 <a name="need-advice" />
 
