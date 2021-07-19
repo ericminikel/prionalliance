@@ -91,9 +91,16 @@ Our partners at Ionis Pharmaceuticals have [publicly committed](http://www.prion
 
 We do our best to respond to inquiries, but we are often in the lab and we simply receive more email than we can respond to. Our allies at [CJD Foundation](https://cjdfoundation.org/) are really the folks you want to talk to &mdash; they have decades of experience guiding people through exactly these issues and they even operate a hotline Monday through Friday.
 
+<a name="covid-19-vaccine-prion" />
+
+### Is there a risk that COVID-19 infection will cause prion disease, or that the COVID-19 vaccines will cause prion disease?
+
+No.
+
 <a name="different-disease-different-gene" />
 
 ### My family has a different disease caused by a different gene, and I want to do what you guys have done for prion disease. Where do I start?
 
 Start everywhere and do everything. Read everything you can read and learn everything you can learn. Talk to scientists and doctors who have worked on the disease, other patients and families who are affected, drug companies who have a technology that could help. Figure out what your disease is lacking. Is it a fundamental scientific knowledge gap? Or a lack of funding? A lack of biobanks and patient data? Try to find the aspect(s) that are both most urgently needed and that you have the passion and capability to contribute to. Unfortunately, and we know the urgency you feel, do not expect change overnight. For us, at least, it took years of re-training before we understood the lay of the land well enough to meaningfully contribute.
+
 
