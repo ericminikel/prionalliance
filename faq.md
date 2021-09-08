@@ -95,7 +95,7 @@ We do our best to respond to inquiries, but we are often in the lab and we simpl
 
 ### Is there a risk that COVID-19 infection will cause prion disease, or that the COVID-19 vaccines will cause prion disease?
 
-No.
+No. There is no evidence to suggest, nor any scientific reason to suspect, that there is any association either between the virus or the vaccine, and prion disease. In protein aggregation diseases like prion disease, it is known that "like seeds like," meaning that misfolded prion protein can make other copies of prion protein misfold, misfolded amyloid beta can make other copies of amyloid beta misfold, and so on. But one protein does not cause a totally different protein to misfold. So the sudden appearance of the COVID spike protein in your body, which happens either when you are infected with the virus or when you receive the vaccine, would not trigger prion protein to misfold. Given the vast amount of scientific literature and news media on COVID, there have inevitably been isolated reports of people developing prion disease shortly after being infected with the virus or shortly after receiving the vaccine. That's entirely coincidental and entirely expected: there is about one new case of prion disease diagnosed every day in the United States, and well over half the population have either been infected with the virus and/or received the vaccine, so there will certainly happen to be cases where prion disease presents just shortly after infection or after vaccination.
 
 <a name="different-disease-different-gene" />
 
