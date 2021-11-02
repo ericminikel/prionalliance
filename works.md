@@ -6,6 +6,10 @@ permalink: /works/
 
 A collection of our writing and research works.
 
+Mortberg MA, Zhao HT, Reidenbach AG, Gentile JE, Kuhn E, O’Moore J, Dooley PM, Mazur C, Allen SW, Trombetta BA, McManus A, Moore MR, Liu J, Cabin DE, Kordasiewicz HB, Mathews J, Arnold SE, Vallabh SM, Minikel EV. **Regional variability, genotypic effects, and pharmacodynamic impact on prion protein concentration in the central nervous system.** _medRxiv_. 2021 Nov 1. [doi: 10.1101/2021.11.01.21265619](https://doi.org/10.1101/2021.11.01.21265619). [Full text](/works/mortberg-2021-regional-variability.pdf).
+
+Bortot LO, Rangel VL, Pavlovici FA, El Omari K, Wagner A, Brandao-Neto J, Talon R, von Delft F, Reidenbach AG, Vallabh SM, Minikel EV, Schreiber S, Nonato MC. **Novel quaternary structures of the human prion protein globular domain.** _Biochimie._ 2021 Sep 10:S0300-9084(21)00208-X. doi: 10.1016/j.biochi.2021.09.005. Epub ahead of print. [PMID: 34517052](https://pubmed.ncbi.nlm.nih.gov/34517052/). [Full text](works/bortot-rangel-2021-novel-quaternary-structures.pdf).
+
 Vallabh SM, Minikel EV. **Implications of new genetic risk factors in prion disease.** _Nat Rev Neurol._ 2021 Jan;17(1):5-6. doi: 10.1038/s41582-020-00433-0. [PMID: 33173159](https://pubmed.ncbi.nlm.nih.gov/33173159/).
 
 Minikel EV, Zhao HT, Le J, O’Moore J, Pitstick R, Graffam S, Carlson GA, Kavanaugh MP, Kriz J, Kim JB, Ma J, Wille H, Aiken J, McKenzie D, Doh-Ura K, Beck M, O’Keefe R, Stathopoulos J, Caron T, Schreiber SL, Carroll JB, Kordasiewicz HB, Cabin DE, Vallabh SM. **Prion protein lowering is a disease-modifying therapy across prion disease stages, strains and endpoints.** _Nucleic Acids Res_. 2020 Aug 10. [PMID: 32776089](https://pubmed.ncbi.nlm.nih.gov/32776089/). [Full text](/works/minikel-2020-prion-protein-lowering.pdf)
