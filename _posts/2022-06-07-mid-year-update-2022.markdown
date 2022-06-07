@@ -5,7 +5,7 @@ date:   2022-06-07 12:01:00
 author: eric
 location: Cambridge, MA
 thumb120: http://www.prionalliance.org/media/base/e-100px.png
-summary200: "Donations to Prion Alliance will be matched 1:1 up to $75,000 through the end of June!"
+summary200: "Donations to Prion Alliance will be matched 1:1 up to $100,000 through the end of June!"
 ---
 
 Dear friends and supporters,
