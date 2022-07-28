@@ -50,6 +50,7 @@ Read more:
 + [Quantifying prion disease penetrance using large population control cohorts](https://github.com/ericminikel/prnp_penetrance/blob/master/manuscript.md)
 + [Age at onset in genetic prion disease and the design of preventive clinical trials](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6656649/)
 + [Evaluating drug targets through human loss-of-function genetic variation](/works/minikel-2020-evaluating-drug-targets.pdf)
++ [Genetic counseling for prion disease: updates and best practices](/works/goldman-vallabh-2022-genetic-counseling-for-prion-disease.pdf)
 
 For more information, please see the [list of our research works and publications](/works/).
 

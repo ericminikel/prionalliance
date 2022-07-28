@@ -6,7 +6,9 @@ permalink: /works/
 
 A collection of our writing and research works.
 
-Mortberg MA, Zhao HT, Reidenbach AG, Gentile JE, Kuhn E, O’Moore J, Dooley PM, Mazur C, Allen SW, Trombetta BA, McManus A, Moore MR, Liu J, Cabin DE, Kordasiewicz HB, Mathews J, Arnold SE, Vallabh SM, Minikel EV. **Regional variability, genotypic effects, and pharmacodynamic impact on prion protein concentration in the central nervous system.** _medRxiv_. 2021 Nov 1. [doi: 10.1101/2021.11.01.21265619](https://doi.org/10.1101/2021.11.01.21265619). [Full text](/works/mortberg-2021-regional-variability.pdf).
+Goldman JS, Vallabh SM. **Genetic counseling for prion disease: Updates and best practices.** _Genet Med._ 2022 Jul 12:S1098-3600(22)00812-7. doi: 10.1016/j.gim.2022.06.003. Epub ahead of print. [PMID: 35819418](https://pubmed.ncbi.nlm.nih.gov/35819418/). [Full text](/publications/goldman-vallabh-2022-genetic-counseling-for-prion-disease.pdf).
+
+Mortberg MA, Zhao HT, Reidenbach AG, Gentile JE, Kuhn E, O'Moore J, Dooley PM, Connors TR, Mazur C, Allen SW, Trombetta BA, McManus A, Moore MR, Liu J, Cabin DE, Kordasiewicz HB, Mathews J, Arnold SE, Vallabh SM, Minikel EV. **Regional variability and genotypic and pharmacodynamic effects on PrP concentration in the CNS.** _JCI Insight._ 2022 Mar 22;7(6):e156532. doi: 10.1172/jci.insight.156532. [PMID: 35133987](https://pubmed.ncbi.nlm.nih.gov/35133987/). [Full text](/works/mortberg-2022-regional-variability-including-supplement.pdf).
 
 Bortot LO, Rangel VL, Pavlovici FA, El Omari K, Wagner A, Brandao-Neto J, Talon R, von Delft F, Reidenbach AG, Vallabh SM, Minikel EV, Schreiber S, Nonato MC. **Novel quaternary structures of the human prion protein globular domain.** _Biochimie._ 2021 Sep 10:S0300-9084(21)00208-X. doi: 10.1016/j.biochi.2021.09.005. Epub ahead of print. [PMID: 34517052](https://pubmed.ncbi.nlm.nih.gov/34517052/). [Full text](works/bortot-rangel-2021-novel-quaternary-structures.pdf).
 

@@ -59,7 +59,7 @@ Most cases of prion disease simply come about randomly. In hindsight, family mem
 
 In the United States, predictive genetic testing for prion disease is performed by the [National Prion Disease Pathology Surveillance Center](https://case.edu/medicine/pathology/divisions/prion-center) in Cleveland (see above). Many people choose to discuss their interest in testing with a genetic counselor or medical geneticist before proceeding, but the genetic test can be ordered by any physician according to the instructions for physicians posted [here](https://case.edu/medicine/pathology/divisions/national-prion-disease-pathology-surveillance-center/resources-professionals/testing-protocols/blood-protocol). It's free for people with a close relative confirmed to have a prion disease mutation. It costs $412 otherwise, which may or may not be covered by insurance depending on your plan. You may also incur health care costs associated with the doctor's visits to have blood drawn and receive counseling.
 
-If your genetic counselor or physician is not familiar with genetic prion disease, you may want to refer them to [this study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4774245/) on the risk of different mutations, and/or [this table](https://www.cureffi.org/2017/04/24/annotating-the-literature-on-pathogenicity-of-prnp-variants/) of references on each of the &gt;70 different mutations that have been discovered.
+If your genetic counselor or physician is not especially familiar with genetic prion disease, you may want to refer them to [our published genetic counseling primer for prion disease](/works/goldman-vallabh-2022-genetic-counseling-for-prion-disease.pdf).
 
 <a name="genetic-screening" />
 
