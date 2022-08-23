@@ -6,7 +6,9 @@ permalink: /works/
 
 A collection of our writing and research works.
 
-Goldman JS, Vallabh SM. **Genetic counseling for prion disease: Updates and best practices.** _Genet Med._ 2022 Jul 12:S1098-3600(22)00812-7. doi: 10.1016/j.gim.2022.06.003. Epub ahead of print. [PMID: 35819418](https://pubmed.ncbi.nlm.nih.gov/35819418/). [Full text](/publications/goldman-vallabh-2022-genetic-counseling-for-prion-disease.pdf).
+Mortberg MA, Minikel EV, Vallabh SM. **Analysis of non-human primate models for evaluating prion disease therapeutic efficacy.** _PLoS Pathog._ 2022 Aug 22;18(8):e1010728. doi: [10.1371/journal.ppat.1010728](https://doi.org/10.1371/journal.ppat.1010728). Epub ahead of print. [PMID: 35994510](https://pubmed.ncbi.nlm.nih.gov/35994510/). [Full text](/works/mortberg-2022-analysis-of-nhp-models.pdf)).
+
+Goldman JS, Vallabh SM. **Genetic counseling for prion disease: Updates and best practices.** _Genet Med._ 2022 Jul 12:S1098-3600(22)00812-7. doi: 10.1016/j.gim.2022.06.003. Epub ahead of print. [PMID: 35819418](https://pubmed.ncbi.nlm.nih.gov/35819418/). [Full text](/works/goldman-vallabh-2022-genetic-counseling-for-prion-disease.pdf).
 
 Mortberg MA, Zhao HT, Reidenbach AG, Gentile JE, Kuhn E, O'Moore J, Dooley PM, Connors TR, Mazur C, Allen SW, Trombetta BA, McManus A, Moore MR, Liu J, Cabin DE, Kordasiewicz HB, Mathews J, Arnold SE, Vallabh SM, Minikel EV. **Regional variability and genotypic and pharmacodynamic effects on PrP concentration in the CNS.** _JCI Insight._ 2022 Mar 22;7(6):e156532. doi: 10.1172/jci.insight.156532. [PMID: 35133987](https://pubmed.ncbi.nlm.nih.gov/35133987/). [Full text](/works/mortberg-2022-regional-variability-including-supplement.pdf).
 
