@@ -52,3 +52,5 @@ The study visits would include the following components, performed over 1.5 days
 
 Contact the study staff at <MGHPrionStudy@partners.org> or 617-726-4026.
 
+See the [current study flyer](/media/2023/04/Prion-Registry-Flyer-Ad-2023-03-13.pdf) for up-to-date eligibility and participation information.
+
