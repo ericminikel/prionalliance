@@ -6,6 +6,8 @@ permalink: /works/
 
 A collection of our writing and research works.
 
+Mortberg MA & Gentile JE (equal contribution), Nadaf NM, Vanderburg C, Simmons S, Dubinsky D, Slamin A, Maldonado S, Petersen CL, Jones N, Kordasiewicz HB, Zhao HT, Vallabh SM, Minikel EV. **A single-cell map of antisense oligonucleotide activity in the brain.** _Nucleic Acids Res._ 2023 May 16:gkad371. doi: 10.1093/nar/gkad371. [PMID: 37188501](https://pubmed.ncbi.nlm.nih.gov/37188501/). [Full text](/works/mortberg-gentile-2023-a-single-cell-map-with-supplement.pdf).
+
 Vallabh SM, Zou D, Pitstick R, O'Moore J, Peters J, Silvius D, Kriz J, Jackson WS, Carlson GA, Minikel EV, Cabin DE. **Therapeutic Trial of anle138b in Mouse Models of Genetic Prion Disease.** _J Virol._ 2023 Jan 18:e0167222. doi: 10.1128/jvi.01672-22. Epub ahead of print. [PMID: 36651748](https://pubmed.ncbi.nlm.nih.gov/36651748/). [Full text](/works/vallabh-2023-therapeutic-trial-of-anle138b.pdf).
 
 Mortberg MA, Vallabh SM, Minikel EV. **Disease stages and therapeutic hypotheses in two decades of neurodegenerative disease clinical trials.** _Sci Rep._ 2022 Oct 21;12(1):17708. doi: 10.1038/s41598-022-21820-1. [PMID: 36271285]((https://pubmed.ncbi.nlm.nih.gov/36271285/)); [PMCID: PMC9587287](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9587287/). [Full text](/works/mortberg-2022-disease-stages-and-therapeutic-hypotheses.pdf).
