@@ -83,7 +83,7 @@ Unfortunately, there are no therapeutic options at present. No drugs or other tr
 
 ### When will a drug be ready for human clinical trials, approved, or available?
 
-Our partners at Ionis Pharmaceuticals have [publicly committed](http://www.prionalliance.org/media/2021/04/Prion_Disease_Community_Statement_4.7.21.pdf) to developing an antisense drug for prion disease. Their drug candidate is currently in animal studies, however, and is not available for experimental or compassionate use treatment. Drug development is always a slow and highly uncertain process, but their best estimate is that human clinical trials could begin in late 2022. Once a potential treatment enters first-in-human studies, clinical trials gathering data on its safety and efficacy are likely to last for some years.
+Our partners at Ionis Pharmaceuticals have [publicly committed](http://www.prionalliance.org/media/2021/04/Prion_Disease_Community_Statement_4.7.21.pdf) to developing an antisense drug for prion disease. Their drug candidate is currently in animal studies, however, and is not available for experimental or compassionate use treatment. Drug development is always a slow and highly uncertain process. Ionis previously estimated that human clinical trials could begin in late 2022; the timeline has slipped but the program remains in active development. Once a potential treatment enters first-in-human studies, clinical trials gathering data on its safety and efficacy are likely to last for some years.
 
 <a name="need-advice" />
 
