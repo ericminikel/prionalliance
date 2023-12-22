@@ -77,13 +77,13 @@ We are unable to accept direct donations of postmortem tissue in our laboratory.
 
 ### A loved one has just been diagnosed with prion disease, is there an experimental drug we can receive or a clinical trial we can enroll in?
 
-Unfortunately, there are no therapeutic options at present. No drugs or other treatments have ever been shown effective against prion disease in humans. As of this writing, to the best of our knowledge, there are no clinical trials for potential therapies enrolling anywhere in the world. It is our mission to change this, but as of today, we are sadly not there yet. We continue to believe that the antisense therapy on which we have collaborated with Ionis Pharmaceuticals looks very promising, but it is currently in animal testing and has not entered human trials. We do not have access to a drug nor do we know how to help you obtain one.
+As of December 21, 2023, a Phase 1 clinical trial of ION717, a drug designed to lower PrP, the protein that causes prion disease, has begun recruiting volunteers. The trial is being run by Ionis Pharmaceuticals. Although we collaborated with Ionis on the experiments that led to this trial, we are not affiliated with Ionis and cannot provide the drug nor speak on their behalf. For information on who is eligible and where and how to enroll, please see the official trial posting: [NCT06153966](https://clinicaltrials.gov/study/NCT06153966). For information on Ionis's decision about how to design this trial, please see their [community statement](https://www.prionalliance.org/media/2023/10/2023-10-04-ion717-community-update.pdf).
 
 <a name="when-drug-trials" />
 
 ### When will a drug be ready for human clinical trials, approved, or available?
 
-Our partners at Ionis Pharmaceuticals have [publicly committed](http://www.prionalliance.org/media/2021/04/Prion_Disease_Community_Statement_4.7.21.pdf) to developing an antisense drug for prion disease. Their drug candidate is currently in animal studies, however, and is not available for experimental or compassionate use treatment. Drug development is always a slow and highly uncertain process. Ionis previously estimated that human clinical trials could begin in late 2022; the timeline has slipped but the program remains in active development. Once a potential treatment enters first-in-human studies, clinical trials gathering data on its safety and efficacy are likely to last for some years.
+The launch of the [first clinical trial](https://clinicaltrials.gov/study/NCT06153966) of a PrP-lowering drug, designed to target the root cause of prion disease, is a big step forward. However, a clinical trial is still just an experiment; we do not know whether the drug is safe or effective. Indeed, early trials are not even designed to determine whether a drug is effective, only to determine whether the drug is safe enough to proceed to larger trials, and to identify a dose level. Even if successful, reaching approval for a new drug takes years. We hope that other drugs will enter human trials in time, but no other candidates are ready for human testing at this time.
 
 <a name="need-advice" />
 
