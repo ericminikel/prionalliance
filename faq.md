@@ -77,7 +77,7 @@ We are unable to accept direct donations of postmortem tissue in our laboratory.
 
 ### A loved one has just been diagnosed with prion disease, is there an experimental drug we can receive or a clinical trial we can enroll in?
 
-As of December 21, 2023, a Phase 1 clinical trial of ION717, a drug designed to lower PrP, the protein that causes prion disease, has begun recruiting volunteers. The trial is being run by Ionis Pharmaceuticals. Although we collaborated with Ionis on the experiments that led to this trial, we are not affiliated with Ionis and cannot provide the drug nor speak on their behalf. For information on who is eligible and where and how to enroll, please see the official trial posting: [NCT06153966](https://clinicaltrials.gov/study/NCT06153966). For information on Ionis's decision about how to design this trial, please see their [community statement](https://www.prionalliance.org/media/2023/10/2023-10-04-ion717-community-update.pdf).
+As of December 21, 2023, a Phase 1 clinical trial of ION717, a drug designed to lower PrP, the protein that causes prion disease, has begun recruiting volunteers. The trial is being run by Ionis Pharmaceuticals. Although we collaborated with Ionis on the experiments that led to this trial, we are not affiliated with Ionis and cannot provide the drug nor speak on their behalf. For information on who is eligible and where and how to enroll, please see the official trial posting: [NCT06153966](https://clinicaltrials.gov/study/NCT06153966). For information on Ionis's decision about how to design this trial, please see their [community statement](https://www.prionalliance.org/media/2023/12/2023-12-21-ion717-community-update.pdf).
 
 <a name="when-drug-trials" />
 
