@@ -4,7 +4,7 @@ title:  "A crazy moment in a crazy journey"
 date:   2024-05-30 12:01:00
 author: sonia
 location: Cambridge, MA
-thumb120: https://www.prionalliance.org/media/base/s-100px.png
+thumb120: https://www.prionalliance.org/media/2024/05/ted_thumbnail.png
 summary200: "ASO in the clinic. Sonia TED Talk. $105K 1:1 matching through June."
 ---
 
