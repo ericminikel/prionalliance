@@ -4,6 +4,8 @@ title: Donate
 permalink: /donate/
 ---
 
+**Donations are being [matched](/2024/05/30/mid-year-update-2024/) 1:1 through June 30, 2024 in honor of [Sonia's newly released TED talk](https://www.ted.com/talks/sonia_vallabh_my_quest_to_cure_prion_disease_before_it_s_too_late)**
+
 Three things to know about donating:
 
 1. You are awesome.

@@ -8,7 +8,7 @@ We &mdash; Sonia Vallabh and Eric Minikel &mdash; founded Prion Alliance after w
 
 Our story has been told in [WIRED](https://www.wired.com/story/sleep-no-more-crusade-genetic-killer/), [The New York Times](https://www.nytimes.com/2020/07/07/health/rare-diseases.html), [Scientific American](https://www.scientificamerican.com/article/the-married-researchers-racing-to-stop-prion-disease/), [NPR Morning Edition](http://www.npr.org/2017/06/19/533220784/a-mothers-early-death-drives-her-daughter-to-find-a-treatment) & [All Things Considered](http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them), [The Boston Globe](https://www.bostonglobe.com/magazine/2016/02/17/husband-and-wife-race-cure-her-fatal-genetic-disease/SLnmAndVfrq9XO1NnLIgkL/story.html), [The Atlantic](http://goo.gl/0tnV3v), and [The New Yorker](http://nyr.kr/16GgtZY).
 
-Donate via PayPal to support our quest:
+Donate via PayPal to support our quest &mdash; **donations [matched](/2024/05/30/mid-year-update-2024/) 1:1 through June 30, 2024 in honor of [Sonia's newly released TED talk](https://www.ted.com/talks/sonia_vallabh_my_quest_to_cure_prion_disease_before_it_s_too_late)**
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
