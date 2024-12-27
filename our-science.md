@@ -14,6 +14,8 @@ In the longer run, other strategies for reducing PrP in the brain can also be im
 
 Read more:
 
++ [Divalent siRNA for prion disease](/works/gentile-2024-divalent-sirna-for-prion-disease-biorxiv-v1.pdf)
++ [Brainwide silencing of prion protein by AAV-mediated delivery of an engineered compact epigenetic editor](/publications/neumann-bertozzi-2024-charm-accepted-version.pdf)
 + [Antisense oligonucleotides extend survival of prion-infected mice](/works/raymond-2019-antisense-oligonucleotides-extend-survival.pdf)
 + [Prion protein lowering is a disease-modifying therapy across prion disease stages, strains and endpoints](/works/minikel-2020-prion-protein-lowering.pdf)
 
@@ -25,8 +27,9 @@ Besides helping us monitor drug activity, biomarkers can help us understand and 
 
 Read more:
 
-+ [Prion protein quantification in human cerebrospinal fluid as a tool for prion disease drug development](/works/vallabh-2019-prion-protein-quantification.pdf)
++ [Fluid biomarkers in individuals at risk for genetic prion disease up to disease conversion](/works/vallabh-2024-fluid-biomarkers-with-supplement.pdf)
 + [Cerebrospinal fluid and plasma biomarkers in individuals at risk for genetic prion disease](/works/vallabh-2020-cerebrospinal-fluid-and-plasma-biomarkers.pdf)
++ [Prion protein quantification in human cerebrospinal fluid as a tool for prion disease drug development](/works/vallabh-2019-prion-protein-quantification.pdf)
 
 ### Meeting the different needs of different patient populations 
 

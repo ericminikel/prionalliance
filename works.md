@@ -6,6 +6,25 @@ permalink: /works/
 
 A collection of our writing and research works.
 
+
+Lian Y, Kotobelli K, Hall S, Talkowski ME, O’Donnell-Luria A, Vallabh SM, Appleby BS, Minikel EV. **Search for a genetic cause of variably protease-sensitive prionopathy.** _medRxiv_. 2024 Dec 14; [2024.12.12.24318867](https://doi.org/10.1101/2024.12.12.24318867). [Full text](/works/lian-2024-search-for-a-genetic-cause-of-vpspr.pdf).
+
+Gentile JE, Corridon TL, Serack FE, Echeverria D, Kennedy ZE, Gallant-Behm CL, Hassler MR, Kinberger G, Kamath NG, Lian Y, Gross KY, Miller R, DeSouza-Lenz K, Howard M, Guzman K, Chan N, Curtis DT, Fettes K, Lemaitre M, Cappon G, Jackson AL, Yamada K, Alterman JF, Coffey AA, Minikel EV, Khvorova A, Vallabh SM. **Divalent siRNA for prion disease.** _bioRxiv_. 2024 Dec 5; [2024.12.05.627039](https://doi.org/10.1101/2024.12.05.627039). [Full text](/works/gentile-2024-divalent-sirna-for-prion-disease-biorxiv-v1.pdf).
+
+Corridon TL, O’Moore J, Lian Y, Laversenne V, Noble B, Kamath NG, Serack FE, Shaikh AB, Erickson B, Braun C, Lenz K, Howard M, Chan N, Reidenbach AG, Cabin DE, Vallabh SM, Grindeland A, Oberbeck N, Zhao HT, Minikel EV. **PrP turnover in vivo and the time to effect of prion disease therapeutics.** _bioRxiv._ 2024 Nov 14; [2024.11.12.623215](https://doi.org/10.1101/2024.11.12.623215). [Full text](/works/corridon-2024-prp-turnover-in-vivo.pdf).
+
+Gentile JE, Corridon TL, Mortberg MA, D'Souza EN, Whiffin N, Minikel EV, Vallabh SM. **Modulation of prion protein expression through cryptic splice site manipulation.** _J Biol Chem._ 2024 Jul 11:107560. doi: 10.1016/j.jbc.2024.107560. Epub ahead of print. [PMID: 39002681](https://pubmed.ncbi.nlm.nih.gov/39002681/). [Full text](/works/gentile-2024-modulation-of-prion-protein-expression-through-cryptic-splice-site.pdf).
+
+Neumann EN & Bertozzi TM, Wu E, Serack F, Harvey JW, Brauer PP, Pirtle CP, Coffey A, Howard M, Kamath N, Lenz K, Guzman K, Raymond MH, Khalil AS, Deverman BE, Minikel EV, Vallabh SM, Weissman JS. **Brainwide silencing of prion protein by AAV-mediated delivery of an engineered compact epigenetic editor.** _Science_. 2024 Jun 28;384(6703):ado7082. doi: 10.1126/science.ado7082. Epub 2024 Jun 28. [PMID: 38935715](https://pubmed.ncbi.nlm.nih.gov/38935715/). [PDF (accepted version)](/works/neumann-bertozzi-2024-charm-accepted-version.pdf) / [Free full text (via Science.org)](https://www.science.org/stoken/author-tokens/ST-1960/full)
+
+Vallabh SM, Mortberg MA, Allen SW, Kupferschmid AC, Kivisakk P, Hammerschlag BL, Bolling A, Trombetta BA, Devitte-McKee K, Ford AM, Sather LE, Duffy G, Rivera A, Gerber J, McManus AJ, Minikel EV, Arnold SE. **Fluid Biomarkers in Individuals at Risk for Genetic Prion Disease up to Disease Conversion.** _Neurology_. 2024 Jul 23;103(2):e209506. doi: 10.1212/WNL.0000000000209506. Epub 2024 Jun 19. [PMID: 38896810](https://pubmed.ncbi.nlm.nih.gov/38896810/). [Full text](/works/vallabh-2024-fluid-biomarkers-with-supplement.pdf)
+
+Gentile JE, Heiss C, Corridon TL, Mortberg MA, Fruhwurth S, Guzman K, Chan K, Herring NC, Janicki T, Nhass R, Sarathy JM, Erickson B, Kunz R, Erickson A, Braun C, Henry K, Bry L, Arnold S, Minikel EV, Zetterberg H, Vallabh SM. **Evidence that minocycline treatment confounds the interpretation of neurofilament as a biomarker.** _medRxiv_. 2024 May 1; DOI: 10.1101/2024.05.01.24306384. [Full text](/works/gentile-2024-evidence-that-minocycline.pdf).
+
+Minikel EV, Painter JL, Dong CC, Nelson MR. **Refining the impact of genetic evidence on clinical success**. _Nature_. 2024 May;629(8012):624-629. doi: 10.1038/s41586-024-07316-0. Epub 2024 Apr 17. [PMID: 38632401](https://pubmed.ncbi.nlm.nih.gov/38632401/); PMCID: PMC11096124. [Full text](/works/minikel-2024-refining-the-impact-of-genetic-evidence-on-clinical-success.pdf)
+
+Minikel EV, Nelson MR. **Human genetic evidence enriched for side effects of approved drugs.** _medRxiv._ 2023 Dec 13;2023.12.12.23299869. [doi: 10.1101/2023.12.12.23299869](https://doi.org/10.1101/2023.12.12.23299869). [Full text](/works/minikel-nelson-2023-human-genetic-evidence-enriched-for-side-effects.pdf)
+
 Minikel EV, Vallabh SM. **Where have prions been all our lives?** _Brain._ 2023 May 10:awad143. [doi: 10.1093/brain/awad143](https://doi.org/10.1093/brain/awad143). [PMID: 37161596](https://pubmed.ncbi.nlm.nih.gov/37161596/). [Full text](/works/minikel-vallabh-2023-where-have-prions-been-submitted-version.pdf)
 
 Mortberg MA & Gentile JE (equal contribution), Nadaf NM, Vanderburg C, Simmons S, Dubinsky D, Slamin A, Maldonado S, Petersen CL, Jones N, Kordasiewicz HB, Zhao HT, Vallabh SM, Minikel EV. **A single-cell map of antisense oligonucleotide activity in the brain.** _Nucleic Acids Res._ 2023 May 16:gkad371. doi: 10.1093/nar/gkad371. [PMID: 37188501](https://pubmed.ncbi.nlm.nih.gov/37188501/). [Full text](/works/mortberg-gentile-2023-a-single-cell-map-with-supplement.pdf).
