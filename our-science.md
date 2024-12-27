@@ -15,7 +15,7 @@ In the longer run, other strategies for reducing PrP in the brain can also be im
 Read more:
 
 + [Divalent siRNA for prion disease](/works/gentile-2024-divalent-sirna-for-prion-disease-biorxiv-v1.pdf)
-+ [Brainwide silencing of prion protein by AAV-mediated delivery of an engineered compact epigenetic editor](/publications/neumann-bertozzi-2024-charm-accepted-version.pdf)
++ [Brainwide silencing of prion protein by AAV-mediated delivery of an engineered compact epigenetic editor](/works/neumann-bertozzi-2024-charm-accepted-version.pdf)
 + [Antisense oligonucleotides extend survival of prion-infected mice](/works/raymond-2019-antisense-oligonucleotides-extend-survival.pdf)
 + [Prion protein lowering is a disease-modifying therapy across prion disease stages, strains and endpoints](/works/minikel-2020-prion-protein-lowering.pdf)
 
