@@ -4,7 +4,7 @@ title: Donate
 permalink: /donate/
 ---
 
-**Donations are being [matched](/2024/12/02/when-is-the-future/) 1:1 through Dec 31, 2024.**
+**Donations are being matched 1:1 through June 30, 2025.**
 
 Three things to know about donating:
 
