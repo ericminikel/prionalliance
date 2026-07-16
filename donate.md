@@ -4,7 +4,7 @@ title: Donate
 permalink: /donate/
 ---
 
-**Donations are being matched 1:1 up to $50,000 through December 31, 2025.**
+**Donations are being matched 1:1 up to $100,000 through August 31, 2026.**
 
 Three things to know about donating:
 
